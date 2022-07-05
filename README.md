@@ -3,8 +3,6 @@
 ![GitHub license](https://img.shields.io/github/license/Mohammed-Benotmane/Hackerrank-Solution.svg)
 ![Jetlight studio](https://img.shields.io/badge/Made%20by-Jetlight%20studio-blue.svg?color=082544)
 
-<img src="https://s3.amazonaws.com/edabit-images/logo_wide_large.png" width=200 />
-
 ## What's this all about ?
 This repo contains my solutions to the challenges i took in [HackerRank](https://www.hackerrank.com/dashboard), I will try to keep it always updated as i go further, Feel free to give some feedbacks!.
 
