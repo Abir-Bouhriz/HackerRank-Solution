@@ -3,11 +3,13 @@ function birthdayCakeCandles(candles) {
     var tallestCandles = 0;
     for (var i = 0 ; i < candles.length; i++) {
         if (candles[i] > max) {
-            max = candles[i]; 
+            max = candles[i];
         }
-        if(candles[i]===max){
-            tallestCandles =tallestCandles+1;
-        }
+    }
+    for (var i = 0 ; i < candles.length; i++){
+       if(candles[i]===max){
+        tallestCandles++; 
+        } 
     }
     return tallestCandles;
 }
