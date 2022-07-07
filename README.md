@@ -16,7 +16,9 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Convert Time](https://github.com/Abir-Bouhriz/HackerRank-Solution/blob/main/easy/convertTime.js)
  - [Diagonal Difference](https://github.com/Abir-Bouhriz/HackerRank-Solution/blob/main/easy/diagonal%20difference.js)
  - [Min Max Sum](https://github.com/Abir-Bouhriz/HackerRank-Solution/blob/main/easy/minMaxSum.js)
- -
+ - [Plus Minus](https://github.com/Abir-Bouhriz/HackerRank-Solution/blob/main/easy/plus%20minus.js)
+ - [Simple Sum of Array](https://github.com/Abir-Bouhriz/HackerRank-Solution/blob/main/easy/simple%20array%20sum.js)
+ - [Staircase](https://github.com/Abir-Bouhriz/HackerRank-Solution/blob/main/easy/staircase.js)
 
   
 
