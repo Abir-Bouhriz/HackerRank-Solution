@@ -20,6 +20,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Simple Sum of Array](https://github.com/Abir-Bouhriz/HackerRank-Solution/blob/main/easy/simple%20array%20sum.js)
  - [Staircase](https://github.com/Abir-Bouhriz/HackerRank-Solution/blob/main/easy/staircase.js)
  - [Kangoroo](https://github.com/Abir-Bouhriz/HackerRank-Solution/blob/main/easy/kangaroo.js)
+ - [Divisible Sum Pairs](https://github.com/Abir-Bouhriz/HackerRank-Solution/blob/main/easy/divisibleSumPairs.js)
 
   
 
